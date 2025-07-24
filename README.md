@@ -50,8 +50,8 @@ A cross-platform, modular Python tool for emulating a UDS (Unified Diagnostic Se
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ubiquitous-diagnostic-tool.git
-   cd ubiquitous-diagnostic-tool
+   git clone https://github.com//Raghu-1104/UDT.git
+   cd UDT
    ```
 
 2. **Install dependencies:**
