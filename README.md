@@ -1,4 +1,4 @@
-##** Ubiquitous Diagnostic Tool (UDS-over-CAN Modular Tool)**
+## ** Ubiquitous Diagnostic Tool (UDS-over-CAN Modular Tool)**
 
 A cross-platform, modular Python tool for emulating a UDS (Unified Diagnostic Services, ISO 14229) server and client over CAN. Supports real and virtual CAN, demo mode, logging, error injection, and flexible sensor/service extension.
 
