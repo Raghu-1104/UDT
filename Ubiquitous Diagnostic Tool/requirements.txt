@@ -1,0 +1,7 @@
+python-can
+click
+rich 
+PyQt5
+qdarkstyle 
+cantools
+pyuavcan 
